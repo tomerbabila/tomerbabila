@@ -9,7 +9,7 @@ My name is Tomer Babila and I'm a Fullstack developer from Israel.
 
 - 🔭 I'm currently working on JavaScript projects.
 
-- 🌱 I'm currently learning python and deeply JavaScript.
+- 🌱 I'm currently learning python and JavaScript in depth.
 
 - 👯 I'm looking to collaborate on Fullstack applications.
 
