@@ -12,5 +12,5 @@ My name is Tomer Babila and I'm a Fullstack developer from Israel.
 - 🌱 I'm currently learning python and deeply JavaScript.
 - 👯 I'm looking to collaborate on Fullstack applications.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomer-babila/)](https://www.linkedin.com/in/tomer-babila/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tomer-Babila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomer-babila/)](https://www.linkedin.com/in/tomer-babila/)
 [![Gmail Badge](https://img.shields.io/badge/-tomer.babila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomer.babila@gmail.com)](mailto:tomer.babila@gmail.com)
