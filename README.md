@@ -16,7 +16,7 @@ My name is Tomer Babila and I'm a Fullstack developer from Israel.
 
 ### ☕ Contact Me:
 <p align="center">
-	<div>☕ Contact Me</div>
+	<p>☕ Contact Me</p>
 	<a href="https://github.com/tomerbabila"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/tomer-babila/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100000469062542"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
